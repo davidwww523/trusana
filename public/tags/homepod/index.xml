@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HomePod on iTheme</title>
+    <link>//localhost:1313/tags/homepod/</link>
+    <description>Recent content in HomePod on iTheme</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Floyd Li</copyright>
+    <lastBuildDate>Mon, 27 Feb 2023 13:06:38 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/homepod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple 推出新款 HomePod，带来突破性音质与智能体验</title>
+      <link>//localhost:1313/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence/</link>
+      <pubDate>Mon, 27 Feb 2023 13:06:38 +0800</pubDate>
+      <guid>//localhost:1313/posts/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence/</guid>
+      <description>&lt;p&gt;加利福尼亚州，库比提诺Apple 今日宣布推出 HomePod（第二代）。这款功能强大的智能扬声器采用优美的标志性设计，为用户带来新一代声学体验。HomePod 汇集了多项 Apple 创新技术与 Siri 智能，提供先进计算音频技术，支持播放沉浸式空间音频曲目，呈现前所未有的聆听体验。HomePod 带来管理日常任务、控制智能家居的便利新方式，用户可以使用 Siri 创建智能家居自动化功能，在家中触发烟雾或一氧化碳警报时获得通知，或者查看房间的温度与湿度——以上操作不必动手就能完成。&#xA;新款 HomePod 从今日起可在线或通过 Apple Store app 订购，2 月 3 日（周五）起正式发售。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
